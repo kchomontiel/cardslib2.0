@@ -28,6 +28,3 @@ dependencies {
     //StaggeredGrid
     implementation 'com.etsy.android.grid:library:1.0.5'
 }
-
-// Used to update in Maven
-//apply from: '../../maven_push.gradle'
