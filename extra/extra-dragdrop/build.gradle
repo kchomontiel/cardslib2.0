@@ -28,6 +28,12 @@ dependencies {
     //DynamicList
     implementation ('com.nhaarman.listviewanimations:lib-core:3.1.0')
     implementation ('com.nhaarman.listviewanimations:lib-manipulation:3.1.0')
+
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.android.support:support-annotations:28.0.0'
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
 }
 
 // Used to update in Maven
